@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "ring_000",
+    "image_name": "ring_001.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white platinum ring features multiple round white diamond stones."
+  },
+  {
+    "id": "ring_001",
+    "image_name": "ring_002.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A platinum ring features multiple round diamonds set along the band."
+  },
+  {
+    "id": "ring_002",
+    "image_name": "ring_003.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white ring features a round diamond set on a platinum band."
+  },
+  {
+    "id": "ring_003",
+    "image_name": "ring_004.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features four round diamonds set in a square frame, with a split shank design."
+  },
+  {
+    "id": "ring_004",
+    "image_name": "ring_005.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features two round diamonds set in a decorative, curved design."
+  },
+  {
+    "id": "ring_005",
+    "image_name": "ring_006.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features round diamond stones."
+  },
+  {
+    "id": "ring_006",
+    "image_name": "ring_007.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring with no stones."
+  },
+  {
+    "id": "ring_007",
+    "image_name": "ring_008.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold jewellery set includes two rings, one with a prominent round diamond and another with multiple small round diamonds."
+  },
+  {
+    "id": "ring_008",
+    "image_name": "ring_009.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a single round diamond."
+  },
+  {
+    "id": "ring_009",
+    "image_name": "ring_013.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring with a round diamond."
+  },
+  {
+    "id": "ring_010",
+    "image_name": "ring_014.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring multiple round diamonds set in a curved band design."
+  },
+  {
+    "id": "ring_011",
+    "image_name": "ring_015.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold ring featuring a round diamond main stone, complemented by smaller round diamonds on the intricate band."
+  },
+  {
+    "id": "ring_012",
+    "image_name": "ring_016.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white platinum ring showcases a single round diamond."
+  },
+  {
+    "id": "ring_013",
+    "image_name": "ring_017.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white ring features a round diamond main stone, surrounded by smaller diamonds, set in an unknown material."
+  },
+  {
+    "id": "ring_014",
+    "image_name": "ring_018.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "A rose gold ring with a distinctive open heart design."
+  },
+  {
+    "id": "ring_015",
+    "image_name": "ring_019.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "heart",
+    "color": "red",
+    "short_description": "This gold ring features a prominent heart-shaped ruby stone."
+  },
+  {
+    "id": "ring_016",
+    "image_name": "ring_020.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This gold ring features five round diamonds set across the band."
+  },
+  {
+    "id": "ring_017",
+    "image_name": "ring_021.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A platinum ring features a round diamond, showcasing a clear white color."
+  },
+  {
+    "id": "ring_018",
+    "image_name": "ring_022.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "pink",
+    "short_description": "A rose gold ring features a heart-shaped setting filled with round diamonds."
+  },
+  {
+    "id": "ring_019",
+    "image_name": "ring_023.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features interlocking heart designs, one heart set with round diamonds."
+  },
+  {
+    "id": "ring_020",
+    "image_name": "ring_024.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A classic yellow gold ring with no stones."
+  },
+  {
+    "id": "ring_021",
+    "image_name": "ring_025.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This platinum ring features a round diamond center stone, surrounded by smaller diamonds, set on a white metal band."
+  },
+  {
+    "id": "ring_022",
+    "image_name": "ring_026.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "A ring featuring a round blue sapphire center stone surrounded by diamonds, with additional diamonds on the band."
+  },
+  {
+    "id": "ring_023",
+    "image_name": "ring_027.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring with no stones."
+  },
+  {
+    "id": "ring_024",
+    "image_name": "ring_028.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "A ring featuring a prominent round diamond in a yellow gold crown setting, accented with small blue sapphires on a white metal band."
+  },
+  {
+    "id": "ring_025",
+    "image_name": "ring_029.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features two prominent round diamonds complemented by smaller round diamonds on the bypass band."
+  },
+  {
+    "id": "ring_026",
+    "image_name": "ring_030.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring with a round diamond set on a twisted band."
+  },
+  {
+    "id": "ring_027",
+    "image_name": "ring_031.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white ring of unknown material features a round diamond center stone and accent diamonds on a leaf-inspired band."
+  },
+  {
+    "id": "ring_028",
+    "image_name": "ring_032.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A platinum ring features a central emerald-cut diamond with smaller round diamonds set into the band, presenting an overall white appearance."
+  },
+  {
+    "id": "ring_029",
+    "image_name": "ring_033.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This rose gold ring features multiple round diamonds in a pave setting."
+  },
+  {
+    "id": "ring_030",
+    "image_name": "ring_034.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features a heart-shaped diamond center stone flanked by two smaller round diamonds."
+  },
+  {
+    "id": "ring_031",
+    "image_name": "ring_035.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a single round diamond set in a prong setting."
+  },
+  {
+    "id": "ring_032",
+    "image_name": "ring_036.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "princess",
+    "color": "pink",
+    "short_description": "A rose gold ring features a princess-cut diamond, surrounded by smaller diamonds, with a pink metal finish."
+  },
+  {
+    "id": "ring_033",
+    "image_name": "ring_037.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "square",
+    "color": "yellow",
+    "short_description": "This gold ring features a central square yellow diamond surrounded by round diamonds."
+  },
+  {
+    "id": "ring_034",
+    "image_name": "ring_038.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "This platinum ring features a round blue sapphire centerpiece, beautifully surrounded by smaller round stones."
+  },
+  {
+    "id": "ring_035",
+    "image_name": "ring_039.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "pear",
+    "color": "white",
+    "short_description": "A silver ring featuring a pear-shaped diamond and a butterfly motif, both adorned with smaller round diamonds."
+  },
+  {
+    "id": "ring_036",
+    "image_name": "ring_040.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "square",
+    "color": "white",
+    "short_description": "This ring features a square cluster of diamonds set in white gold, with additional diamonds adorning the band."
+  },
+  {
+    "id": "ring_037",
+    "image_name": "ring_041.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a prominent round diamond, complemented by smaller accent diamonds on the bypass band."
+  },
+  {
+    "id": "ring_038",
+    "image_name": "ring_042.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This gold ring features two heart designs with round diamonds, crafted in yellow and white metal."
+  },
+  {
+    "id": "ring_039",
+    "image_name": "ring_043.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white colored ring featuring multiple round diamonds in an intricate setting."
+  },
+  {
+    "id": "ring_040",
+    "image_name": "ring_044.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white silver ring features a round diamond."
+  },
+  {
+    "id": "ring_041",
+    "image_name": "ring_045.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This ring features a round diamond center stone, encircled and accented with additional round diamonds on an unknown white metal band."
+  },
+  {
+    "id": "ring_042",
+    "image_name": "ring_046.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a round diamond center stone, complemented by additional diamond accents along the band."
+  },
+  {
+    "id": "ring_043",
+    "image_name": "ring_047.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring an intricate engraved pattern around the band."
+  },
+  {
+    "id": "ring_044",
+    "image_name": "ring_048.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features a central round diamond surrounded by multiple smaller round diamonds."
+  },
+  {
+    "id": "ring_045",
+    "image_name": "ring_049.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This gold ring features a round diamond center stone with a diamond halo on a decorative split-shank band."
+  },
+  {
+    "id": "ring_046",
+    "image_name": "ring_050.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold ring with a central round pearl, accented by smaller clear stones on the sides."
+  },
+  {
+    "id": "ring_047",
+    "image_name": "ring_051.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "red",
+    "short_description": "A rose gold band ring featuring multiple round blue and green stones set flush, with engraved letters around the circumference."
+  },
+  {
+    "id": "ring_048",
+    "image_name": "ring_052.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white platinum ring features three round diamond stones complemented by smaller round diamonds on the band."
+  },
+  {
+    "id": "ring_049",
+    "image_name": "ring_053.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A slender gold ring features a single clear diamond set horizontally on the band."
+  },
+  {
+    "id": "ring_050",
+    "image_name": "ring_054.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "sapphire",
+    "stone_shape": "princess",
+    "color": "blue",
+    "short_description": "This platinum ring features a blue, princess-cut sapphire stone set in a classic six-prong design."
+  },
+  {
+    "id": "ring_051",
+    "image_name": "ring_055.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold ring featuring a round white pearl set in a decorative metal frame."
+  },
+  {
+    "id": "ring_052",
+    "image_name": "ring_056.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A ring with a round diamond center stone, accented by smaller round diamonds set on an unknown material band."
+  },
+  {
+    "id": "ring_053",
+    "image_name": "ring_057.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A silver ring featuring a heart-shaped charm with engraved text."
+  },
+  {
+    "id": "ring_054",
+    "image_name": "ring_058.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A silver ring featuring a round rose gold charm with no stones."
+  },
+  {
+    "id": "ring_055",
+    "image_name": "ring_059.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "princess",
+    "color": "white",
+    "short_description": "A white platinum ring features a single princess-cut diamond in a four-prong setting."
+  },
+  {
+    "id": "ring_056",
+    "image_name": "ring_060.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A silver ring features a plain band and a single round pendant tag."
+  },
+  {
+    "id": "ring_057",
+    "image_name": "ring_061.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "A silver-colored ring features a central round blue stone complemented by two smaller blue stones."
+  },
+  {
+    "id": "ring_058",
+    "image_name": "ring_062.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold ring featuring round diamonds."
+  },
+  {
+    "id": "ring_059",
+    "image_name": "ring_063.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This ring features multiple round diamonds set in a white metal design."
+  },
+  {
+    "id": "ring_060",
+    "image_name": "ring_064.png",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "princess",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a single princess-cut diamond set on a simple band."
+  },
+  {
+    "id": "ring_061",
+    "image_name": "ring_065.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring features a bow-shaped design, set with multiple round diamonds."
+  },
+  {
+    "id": "ring_062",
+    "image_name": "ring_066.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring a single round diamond."
+  },
+  {
+    "id": "ring_063",
+    "image_name": "ring_067.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring round diamonds set in a central cluster and along the band."
+  },
+  {
+    "id": "ring_064",
+    "image_name": "ring_068.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a braided design adorned with round diamonds."
+  },
+  {
+    "id": "ring_065",
+    "image_name": "ring_069.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamond stones in an interwoven design."
+  },
+  {
+    "id": "ring_066",
+    "image_name": "ring_070.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a peacock feather design adorned with round diamonds and colorful enamel accents."
+  },
+  {
+    "id": "ring_067",
+    "image_name": "ring_071.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamonds set in an intertwined band design."
+  },
+  {
+    "id": "ring_068",
+    "image_name": "ring_072.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "ruby",
+    "stone_shape": "round",
+    "color": "red",
+    "short_description": "This rose gold ring showcases a heart-shaped design paved with numerous round red rubies."
+  },
+  {
+    "id": "ring_069",
+    "image_name": "ring_073.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A plain yellow gold ring with a polished finish and no stones."
+  },
+  {
+    "id": "ring_070",
+    "image_name": "ring_074.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features a knot design embellished with multiple round diamonds."
+  },
+  {
+    "id": "ring_071",
+    "image_name": "ring_075.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "unknown",
+    "short_description": "A three-band interlocked ring featuring yellow, white, and rose gold tones, with no visible stones."
+  },
+  {
+    "id": "ring_072",
+    "image_name": "ring_076.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple small round diamonds set along a looping design."
+  },
+  {
+    "id": "ring_073",
+    "image_name": "ring_077.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features multiple round stones."
+  },
+  {
+    "id": "ring_074",
+    "image_name": "ring_078.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a textured surface, with no stones present."
+  },
+  {
+    "id": "ring_075",
+    "image_name": "ring_079.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold band ring features a textured surface, with no stones present."
+  },
+  {
+    "id": "ring_076",
+    "image_name": "ring_080.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold band with a grooved design, featuring no stones."
+  },
+  {
+    "id": "ring_077",
+    "image_name": "ring_081.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A simple white platinum ring with a polished finish and no stones."
+  },
+  {
+    "id": "ring_078",
+    "image_name": "ring_082.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features an intricate floral filigree design with a small white accent at its center."
+  },
+  {
+    "id": "ring_079",
+    "image_name": "ring_083.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This two-tone gold ring features a wavy design adorned with numerous small, round diamonds."
+  },
+  {
+    "id": "ring_080",
+    "image_name": "ring_084.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold ring featuring a textured central band with polished beveled edges."
+  },
+  {
+    "id": "ring_081",
+    "image_name": "ring_085.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring a heart-shaped diamond center stone with diamond accents on the band."
+  },
+  {
+    "id": "ring_082",
+    "image_name": "ring_086.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This ring features intertwined heart designs, one in rose gold and one in white metal, accented with small round diamonds."
+  },
+  {
+    "id": "ring_083",
+    "image_name": "ring_087.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "none",
+    "color": "green",
+    "short_description": "This gold ring features a green emerald."
+  },
+  {
+    "id": "ring_084",
+    "image_name": "ring_088.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "oval",
+    "color": "blue",
+    "short_description": "A gold ring with an oval-shaped blue stone, featuring a simple bypass band design."
+  },
+  {
+    "id": "ring_085",
+    "image_name": "ring_089.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This ring features round diamond stones set in a white platinum band."
+  },
+  {
+    "id": "ring_086",
+    "image_name": "ring_090.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring features a round purple stone surrounded by small round diamonds."
+  },
+  {
+    "id": "ring_087",
+    "image_name": "ring_091.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring with a central round diamond and smaller round diamonds on a swirling yellow band."
+  },
+  {
+    "id": "ring_088",
+    "image_name": "ring_092.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a central cluster of round diamonds arranged in a floral design."
+  },
+  {
+    "id": "ring_089",
+    "image_name": "ring_093.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features a single round diamond, set within heart-shaped elements on the band."
+  },
+  {
+    "id": "ring_090",
+    "image_name": "ring_094.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring multiple round diamonds set in a decorative floral and abstract design."
+  },
+  {
+    "id": "ring_091",
+    "image_name": "ring_095.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "ruby",
+    "stone_shape": "none",
+    "color": "red",
+    "short_description": "This rose gold ring features a red ruby with accent diamonds."
+  },
+  {
+    "id": "ring_092",
+    "image_name": "ring_096.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features multiple round diamonds set in a square cluster, complemented by an openwork band design."
+  },
+  {
+    "id": "ring_093",
+    "image_name": "ring_097.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "This gold ring features a round diamond set in a pink accent on a white band."
+  },
+  {
+    "id": "ring_094",
+    "image_name": "ring_098.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white ring features three round diamond stones set in square bezels on a split shank design."
+  },
+  {
+    "id": "ring_095",
+    "image_name": "ring_099.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "A gold ring features a round diamond within a heart-shaped design that forms part of the word 'LOVE'."
+  },
+  {
+    "id": "ring_096",
+    "image_name": "ring_100.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features two diamonds."
+  },
+  {
+    "id": "ring_097",
+    "image_name": "ring_101.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features two round diamonds set in a curved design."
+  },
+  {
+    "id": "ring_098",
+    "image_name": "ring_102.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver ring features round diamonds set within a heart shape, forming part of a 'LOVE' design."
+  },
+  {
+    "id": "ring_099",
+    "image_name": "ring_103.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamonds set in an intertwined design."
+  },
+  {
+    "id": "ring_100",
+    "image_name": "ring_104.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features a single round diamond set in a heart-shaped design."
+  },
+  {
+    "id": "ring_101",
+    "image_name": "ring_105.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "This yellow gold ring features a cluster of round ruby and other colored gemstones."
+  },
+  {
+    "id": "ring_102",
+    "image_name": "ring_106.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a red heart-shaped ruby."
+  },
+  {
+    "id": "ring_103",
+    "image_name": "ring_107.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features a single round diamond set in the band."
+  },
+  {
+    "id": "ring_104",
+    "image_name": "ring_108.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This is a plain white metal band ring."
+  },
+  {
+    "id": "ring_105",
+    "image_name": "ring_109.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This white band features a polished surface with a central grooved design."
+  },
+  {
+    "id": "ring_106",
+    "image_name": "ring_110.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A gold ring featuring a square cluster of round diamonds on a white band with yellow accents."
+  },
+  {
+    "id": "ring_107",
+    "image_name": "ring_111.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features an intricate openwork design with a triangular cluster of round diamonds at its center."
+  },
+  {
+    "id": "ring_108",
+    "image_name": "ring_112.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white metal ring features a twisted band design accented with small round diamond stones."
+  },
+  {
+    "id": "ring_109",
+    "image_name": "ring_113.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "square",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features square-shaped diamond clusters and additional diamonds along the band."
+  },
+  {
+    "id": "ring_110",
+    "image_name": "ring_114.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring with multiple round diamonds set in a rectangular head, featuring openwork details on the band."
+  },
+  {
+    "id": "ring_111",
+    "image_name": "ring_115.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "A rose gold ring with an intricate floral filigree design."
+  },
+  {
+    "id": "ring_112",
+    "image_name": "ring_116.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white ring features a floral design accented with round diamonds."
+  },
+  {
+    "id": "ring_113",
+    "image_name": "ring_117.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver ring features three round diamonds set in a graceful, flowing design."
+  },
+  {
+    "id": "ring_114",
+    "image_name": "ring_118.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamond stones set in an intricate pattern."
+  },
+  {
+    "id": "ring_115",
+    "image_name": "ring_119.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "sapphire",
+    "stone_shape": "heart",
+    "color": "blue",
+    "short_description": "A silver ring features a heart-shaped blue sapphire stone, complemented by two small accent stones."
+  },
+  {
+    "id": "ring_116",
+    "image_name": "ring_120.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver ring features a heart design accented with multiple round diamond stones."
+  },
+  {
+    "id": "ring_117",
+    "image_name": "ring_121.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring with a polished finish and no stones."
+  },
+  {
+    "id": "ring_118",
+    "image_name": "ring_122.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring a geometric square-like element and a textured circular element."
+  },
+  {
+    "id": "ring_119",
+    "image_name": "ring_123.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features multiple round diamonds set in an open-work design."
+  },
+  {
+    "id": "ring_120",
+    "image_name": "ring_124.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A white ring featuring three small diamond stones."
+  },
+  {
+    "id": "ring_121",
+    "image_name": "ring_125.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "none",
+    "color": "red",
+    "short_description": "A gold ring featuring a pear-shaped red ruby and a small round diamond."
+  },
+  {
+    "id": "ring_122",
+    "image_name": "ring_126.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a single round diamond set in a curved band."
+  },
+  {
+    "id": "ring_123",
+    "image_name": "ring_127.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This is a white-colored ring, appearing to be silver, with no stones."
+  },
+  {
+    "id": "ring_124",
+    "image_name": "ring_128.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a simple teardrop design and no stones, offering a minimalist style."
+  },
+  {
+    "id": "ring_125",
+    "image_name": "ring_129.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features an infinity design adorned with multiple small round diamonds."
+  },
+  {
+    "id": "ring_126",
+    "image_name": "ring_130.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamonds set in a decorative rope-twist design."
+  },
+  {
+    "id": "ring_127",
+    "image_name": "ring_131.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring with no identifiable stone type or shape."
+  },
+  {
+    "id": "ring_128",
+    "image_name": "ring_132.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring multiple round diamonds set across the top band."
+  },
+  {
+    "id": "ring_129",
+    "image_name": "ring_133.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "pink",
+    "short_description": "A ring featuring a heart-shaped cluster of round diamonds, complemented by pink accent stones set on a white metal band."
+  },
+  {
+    "id": "ring_130",
+    "image_name": "ring_134.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This platinum ring features a single round diamond."
+  },
+  {
+    "id": "ring_131",
+    "image_name": "ring_135.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features four diamond stones set in a floral design."
+  },
+  {
+    "id": "ring_132",
+    "image_name": "ring_136.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This ring features a yellow gold band adorned with multiple round diamonds."
+  },
+  {
+    "id": "ring_133",
+    "image_name": "ring_137.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring with a floral-shaped cluster of diamonds."
+  },
+  {
+    "id": "ring_134",
+    "image_name": "ring_138.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features round diamonds set in a heart design."
+  },
+  {
+    "id": "ring_135",
+    "image_name": "ring_139.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold ring with two clusters of diamonds forming a stylized design on an open band."
+  },
+  {
+    "id": "ring_136",
+    "image_name": "ring_140.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This is a yellow gold ring featuring a round diamond stone."
+  },
+  {
+    "id": "ring_137",
+    "image_name": "ring_141.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This rose gold ring features three round diamond stones set in a diagonal pattern."
+  },
+  {
+    "id": "ring_138",
+    "image_name": "ring_142.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold band ring features a diagonal line of round diamonds set into its surface."
+  },
+  {
+    "id": "ring_139",
+    "image_name": "ring_143.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a heart-shaped cluster of diamonds."
+  },
+  {
+    "id": "ring_140",
+    "image_name": "ring_144.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring a central cluster of round diamonds, flanked by two square diamonds."
+  },
+  {
+    "id": "ring_141",
+    "image_name": "ring_145.jpg",
+    "category": "ring",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white ring features multiple round diamonds set in an unknown material."
+  },
+  {
+    "id": "ring_142",
+    "image_name": "ring_146.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring featuring multiple round diamonds set in a decorative, open design."
+  },
+  {
+    "id": "ring_143",
+    "image_name": "ring_147.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a round cluster of diamonds."
+  },
+  {
+    "id": "ring_144",
+    "image_name": "ring_148.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features five round diamonds set in a curved band."
+  },
+  {
+    "id": "ring_145",
+    "image_name": "ring_149.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This gold ring features multiple round diamonds set in a circular cluster within a twisted yellow gold band."
+  },
+  {
+    "id": "ring_146",
+    "image_name": "ring_150.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This rose gold ring features a clover design with a wavy line of round diamonds."
+  },
+  {
+    "id": "ring_147",
+    "image_name": "ring_151.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features an oval shape with diamonds."
+  },
+  {
+    "id": "ring_148",
+    "image_name": "ring_152.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple small round diamonds arranged in a floral top design."
+  },
+  {
+    "id": "ring_149",
+    "image_name": "ring_153.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring showcasing a floral cluster design set with round diamonds."
+  },
+  {
+    "id": "ring_150",
+    "image_name": "ring_154.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features multiple round, multi-colored gemstones, including a diamond and a pearl."
+  },
+  {
+    "id": "ring_151",
+    "image_name": "ring_155.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a circular disc with a pav\u00e9 diamond 'P' initial set in the center."
+  },
+  {
+    "id": "ring_152",
+    "image_name": "ring_156.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white platinum ring features round diamonds arranged in a concentric circular design."
+  },
+  {
+    "id": "ring_153",
+    "image_name": "ring_157.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This ring features a rose gold heart entwined with a white metal band adorned with round diamonds."
+  },
+  {
+    "id": "ring_154",
+    "image_name": "ring_158.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A gold ring featuring a round diamond, set in a white and yellow two-tone design."
+  },
+  {
+    "id": "ring_155",
+    "image_name": "ring_159.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "A gold ring features a textured disc and a distinct colored band, adorned with round diamonds."
+  },
+  {
+    "id": "ring_156",
+    "image_name": "ring_160.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white platinum ring features a single round diamond, set within a sleek band with brushed accents."
+  },
+  {
+    "id": "ring_157",
+    "image_name": "ring_161.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features two bird figures with red colored details."
+  },
+  {
+    "id": "ring_158",
+    "image_name": "ring_162.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring with multiple flower motifs, each set with round diamonds, forming a decorative band."
+  },
+  {
+    "id": "ring_159",
+    "image_name": "ring_163.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a rectangular bar design with black geometric inlay."
+  },
+  {
+    "id": "ring_160",
+    "image_name": "ring_164.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold band ring featuring a textured design with parallel lines and beaded edges, containing no stones."
+  },
+  {
+    "id": "ring_161",
+    "image_name": "ring_165.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This is a white silver ring featuring a leaf design with no stones."
+  },
+  {
+    "id": "ring_162",
+    "image_name": "ring_166.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A platinum ring featuring a central cluster of round diamonds and additional diamond accents."
+  },
+  {
+    "id": "ring_163",
+    "image_name": "ring_167.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features round diamonds arranged in a double heart design."
+  },
+  {
+    "id": "ring_164",
+    "image_name": "ring_168.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "oval",
+    "color": "green",
+    "short_description": "A gold ring features a central oval emerald surrounded by smaller emeralds and diamonds."
+  },
+  {
+    "id": "ring_165",
+    "image_name": "ring_169.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold ring featuring a cluster of round and baguette diamonds."
+  },
+  {
+    "id": "ring_166",
+    "image_name": "ring_170.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "A rose gold ring with intricate patterned details."
+  },
+  {
+    "id": "ring_167",
+    "image_name": "ring_171.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "square",
+    "color": "white",
+    "short_description": "A white gold ring features a central square diamond, surrounded by a double halo of round diamonds on a pave diamond band."
+  },
+  {
+    "id": "ring_168",
+    "image_name": "ring_172.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a circular top with the letter A formed by round diamonds."
+  },
+  {
+    "id": "ring_169",
+    "image_name": "ring_173.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "This ring features multiple round diamonds set in a two-tone gold band."
+  },
+  {
+    "id": "ring_170",
+    "image_name": "ring_174.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A two-tone gold ring featuring round diamonds set in a structured design."
+  },
+  {
+    "id": "ring_171",
+    "image_name": "ring_175.jpg",
+    "category": "ring",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white silver ring features three round diamonds set along the band in a unique leaf-like arrangement."
+  },
+  {
+    "id": "ring_172",
+    "image_name": "ring_176.jpg",
+    "category": "ring",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold ring featuring multiple round diamonds set in a continuous floral design."
+  },
+  {
+    "id": "ring_173",
+    "image_name": "ring_177.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features a round stone with detailed metalwork."
+  },
+  {
+    "id": "ring_174",
+    "image_name": "ring_178.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This platinum ring features an intertwining design adorned with round diamonds."
+  },
+  {
+    "id": "ring_175",
+    "image_name": "ring_179.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A platinum ring features multiple round diamonds in an intricate band design."
+  },
+  {
+    "id": "ring_176",
+    "image_name": "ring_180.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A white platinum ring features a single round white diamond set in a bypass design."
+  },
+  {
+    "id": "ring_177",
+    "image_name": "ring_181.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold ring with a textured finish and no stones."
+  },
+  {
+    "id": "ring_178",
+    "image_name": "ring_182.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamonds in a three-row setting."
+  },
+  {
+    "id": "ring_179",
+    "image_name": "ring_183.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold ring features multiple round diamonds."
+  },
+  {
+    "id": "ring_180",
+    "image_name": "ring_184.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring featuring round diamonds set in a floral pattern."
+  },
+  {
+    "id": "ring_181",
+    "image_name": "ring_185.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A platinum ring features multiple rows of round diamonds."
+  },
+  {
+    "id": "ring_182",
+    "image_name": "ring_187.jpg",
+    "category": "ring",
+    "material": "platinum",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A platinum ring featuring three round diamonds set into the band."
+  },
+  {
+    "id": "ring_183",
+    "image_name": "ring_188.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "A gold ring featuring a round blue sapphire stone held by an ornate setting."
+  },
+  {
+    "id": "ring_184",
+    "image_name": "ring_189.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This gold ring features three round diamond stones set on a yellow band."
+  },
+  {
+    "id": "ring_185",
+    "image_name": "ring_190.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This ring features a gold band with a square cluster of round diamonds."
+  },
+  {
+    "id": "ring_186",
+    "image_name": "ring_191.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features multiple round diamonds set in a rectangular arrangement."
+  },
+  {
+    "id": "ring_187",
+    "image_name": "ring_192.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold ring featuring round, multi-colored gemstones including diamond, ruby, emerald, sapphire, and pearl."
+  },
+  {
+    "id": "ring_188",
+    "image_name": "ring_193.jpg",
+    "category": "ring",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold ring features four round diamonds set in a cluster design."
+  }
+]

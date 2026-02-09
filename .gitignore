@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+backend/venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# HuggingFace / model cache
+.cache/
+huggingface/
+
+# Embeddings & FAISS
+embeddings/*.npy
+embeddings/*.faiss
+faiss/*.index
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Streamlit cache
+.streamlit/

@@ -1,0 +1,3012 @@
+[
+  {
+    "id": "necklace_000",
+    "image_name": "necklace_1.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring three round pearls."
+  },
+  {
+    "id": "necklace_001",
+    "image_name": "necklace_10.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a design with multiple small round diamonds set within leaf-like motifs."
+  },
+  {
+    "id": "necklace_002",
+    "image_name": "necklace_100.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a round pearl, accented by smaller stones."
+  },
+  {
+    "id": "necklace_003",
+    "image_name": "necklace_101.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a bar pendant with a single round diamond and personalized engraving."
+  },
+  {
+    "id": "necklace_004",
+    "image_name": "necklace_102.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features an infinity symbol pendant adorned with round diamonds, completed by two drop tassels."
+  },
+  {
+    "id": "necklace_005",
+    "image_name": "necklace_103.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This rose gold necklace features a heart and 'love' design adorned with round diamonds."
+  },
+  {
+    "id": "necklace_006",
+    "image_name": "necklace_104.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a bow pendant featuring round diamonds."
+  },
+  {
+    "id": "necklace_007",
+    "image_name": "necklace_105.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "red",
+    "short_description": "A rose gold necklace features an infinity symbol with round diamonds forming a heart design."
+  },
+  {
+    "id": "necklace_008",
+    "image_name": "necklace_106.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring intertwined heart pendants, one in yellow gold and the other adorned with round diamonds."
+  },
+  {
+    "id": "necklace_009",
+    "image_name": "necklace_107.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace features an infinity pendant adorned with round diamonds."
+  },
+  {
+    "id": "necklace_010",
+    "image_name": "necklace_108.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features round diamonds set in a heart and infinity design."
+  },
+  {
+    "id": "necklace_011",
+    "image_name": "necklace_109.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This necklace features a yellow gold chain and a pendant embellished with round diamonds."
+  },
+  {
+    "id": "necklace_012",
+    "image_name": "necklace_110.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a design with flat circular elements and delicate floral cut-outs."
+  },
+  {
+    "id": "necklace_013",
+    "image_name": "necklace_111.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring intricate patterned pendants and a delicate chain."
+  },
+  {
+    "id": "necklace_014",
+    "image_name": "necklace_112.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a series of ornate, perforated links with a polished finish, connecting to a delicate chain."
+  },
+  {
+    "id": "necklace_015",
+    "image_name": "necklace_113.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This necklace is crafted from yellow gold, featuring multiple openwork geometric and spherical elements."
+  },
+  {
+    "id": "necklace_016",
+    "image_name": "necklace_114.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a round pearl with two intricate gold decorative elements."
+  },
+  {
+    "id": "necklace_017",
+    "image_name": "necklace_115.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features small diamond stones on butterfly and cloud-shaped charms."
+  },
+  {
+    "id": "necklace_018",
+    "image_name": "necklace_116.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features geometric elements along its chain, with some sections having a patterned finish."
+  },
+  {
+    "id": "necklace_019",
+    "image_name": "necklace_117.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with an ornate chain design and no visible stones."
+  },
+  {
+    "id": "necklace_020",
+    "image_name": "necklace_118.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a textured circular pendant and no stones."
+  },
+  {
+    "id": "necklace_021",
+    "image_name": "necklace_119.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace featuring a simple charm, with no stones present."
+  },
+  {
+    "id": "necklace_022",
+    "image_name": "necklace_12.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This silver necklace features multiple round stones in yellow and a dark color."
+  },
+  {
+    "id": "necklace_023",
+    "image_name": "necklace_120.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a gold necklace with no stones and a yellow color."
+  },
+  {
+    "id": "necklace_024",
+    "image_name": "necklace_121.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a plain, elongated pendant featuring two drop accents."
+  },
+  {
+    "id": "necklace_025",
+    "image_name": "necklace_122.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a textured bar pendant with two delicate dangling chains."
+  },
+  {
+    "id": "necklace_026",
+    "image_name": "necklace_123.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "princess",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features an oval pendant with a central princess-cut diamond."
+  },
+  {
+    "id": "necklace_027",
+    "image_name": "necklace_124.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a unique tubular pendant with a heart-shaped end."
+  },
+  {
+    "id": "necklace_028",
+    "image_name": "necklace_125.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace features a delicate two-tone floral and leaf design, with no visible stones."
+  },
+  {
+    "id": "necklace_029",
+    "image_name": "necklace_126.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a yellow chain and a pendant with yellow and white elements."
+  },
+  {
+    "id": "necklace_030",
+    "image_name": "necklace_127.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain features multiple decorative, oval-shaped metal elements."
+  },
+  {
+    "id": "necklace_031",
+    "image_name": "necklace_128.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a pendant featuring multiple round diamonds."
+  },
+  {
+    "id": "necklace_032",
+    "image_name": "necklace_129.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with three irregular metal elements."
+  },
+  {
+    "id": "necklace_033",
+    "image_name": "necklace_130.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a simple bar pendant, featuring no stones."
+  },
+  {
+    "id": "necklace_034",
+    "image_name": "necklace_131.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This necklace features a yellow gold chain with a diamond-studded circular pendant and a yellow butterfly drop."
+  },
+  {
+    "id": "necklace_035",
+    "image_name": "necklace_132.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a layered chain design with multiple hexagonal ornaments."
+  },
+  {
+    "id": "necklace_036",
+    "image_name": "necklace_133.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a hexagonal pendant featuring small round diamonds and multiple dangling elements."
+  },
+  {
+    "id": "necklace_037",
+    "image_name": "necklace_134.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features multiple layers with intricate metalwork designs."
+  },
+  {
+    "id": "necklace_038",
+    "image_name": "necklace_135.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features an intricate pendant with two white pearls suspended below."
+  },
+  {
+    "id": "necklace_039",
+    "image_name": "necklace_136.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features three spherical pendants with intricate detailing."
+  },
+  {
+    "id": "necklace_040",
+    "image_name": "necklace_137.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A necklace featuring a heart-shaped pendant with a butterfly accent, crafted in yellow and white metal."
+  },
+  {
+    "id": "necklace_041",
+    "image_name": "necklace_138.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace with a yellow metal flower pendant featuring a round diamond and several round pearls."
+  },
+  {
+    "id": "necklace_042",
+    "image_name": "necklace_139.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring floral-shaped elements accented with round pearls."
+  },
+  {
+    "id": "necklace_043",
+    "image_name": "necklace_14.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "unknown",
+    "short_description": "A gold necklace with multiple strands features colored decorative elements."
+  },
+  {
+    "id": "necklace_044",
+    "image_name": "necklace_141.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a floral-inspired pendant featuring round diamonds."
+  },
+  {
+    "id": "necklace_045",
+    "image_name": "necklace_143.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with multiple strands, featuring round pearls and clear round stones with floral accents."
+  },
+  {
+    "id": "necklace_046",
+    "image_name": "necklace_144.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace features multiple butterfly pendants, with one dark stone drop."
+  },
+  {
+    "id": "necklace_047",
+    "image_name": "necklace_145.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a curved, textured pendant on a delicate chain."
+  },
+  {
+    "id": "necklace_048",
+    "image_name": "necklace_146.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "A rose gold necklace features a simple triangle pendant on a delicate chain."
+  },
+  {
+    "id": "necklace_049",
+    "image_name": "necklace_147.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring two interconnected square pendants."
+  },
+  {
+    "id": "necklace_050",
+    "image_name": "necklace_149.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring multiple triangular elements across the chain."
+  },
+  {
+    "id": "necklace_051",
+    "image_name": "necklace_15.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_052",
+    "image_name": "necklace_151.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A delicate gold necklace features multiple small, round yellow charms evenly spaced along the chain."
+  },
+  {
+    "id": "necklace_053",
+    "image_name": "necklace_153.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features multiple textured round disks suspended from the delicate chain, creating a decorative front."
+  },
+  {
+    "id": "necklace_054",
+    "image_name": "necklace_154.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A multi-layered yellow gold necklace adorned with numerous round pearls and decorative gold elements, featuring a single drop pearl."
+  },
+  {
+    "id": "necklace_055",
+    "image_name": "necklace_155.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with round pearls and decorative rectangular elements."
+  },
+  {
+    "id": "necklace_056",
+    "image_name": "necklace_156.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "pearl",
+    "stone_shape": "oval",
+    "color": "pink",
+    "short_description": "A rose gold necklace features a pearl in an oval shape."
+  },
+  {
+    "id": "necklace_057",
+    "image_name": "necklace_158.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features two round metal drop charms."
+  },
+  {
+    "id": "necklace_058",
+    "image_name": "necklace_16.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace with a yellow tone."
+  },
+  {
+    "id": "necklace_059",
+    "image_name": "necklace_160.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a delicate chain with a pendant composed of three connected hexagonal elements."
+  },
+  {
+    "id": "necklace_060",
+    "image_name": "necklace_161.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "A pink rose gold necklace with no stones."
+  },
+  {
+    "id": "necklace_061",
+    "image_name": "necklace_162.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a circular pendant element."
+  },
+  {
+    "id": "necklace_062",
+    "image_name": "necklace_164.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a geometric pendant composed of triangular shapes."
+  },
+  {
+    "id": "necklace_063",
+    "image_name": "necklace_165.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "unknown",
+    "stone_shape": "oval",
+    "color": "unknown",
+    "short_description": "A multi-strand rose gold necklace featuring oval-shaped unknown stones."
+  },
+  {
+    "id": "necklace_064",
+    "image_name": "necklace_167.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold multi-strand necklace features oval metallic beads, creating a layered effect."
+  },
+  {
+    "id": "necklace_065",
+    "image_name": "necklace_169.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "square",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features square emerald stones."
+  },
+  {
+    "id": "necklace_066",
+    "image_name": "necklace_170.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold necklace featuring multiple round, purple stones arranged in a triangular pendant design."
+  },
+  {
+    "id": "necklace_067",
+    "image_name": "necklace_171.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "This rose gold necklace features a pendant with rose gold and yellow elements, designed with no stones."
+  },
+  {
+    "id": "necklace_068",
+    "image_name": "necklace_172.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a yellow color and no stones."
+  },
+  {
+    "id": "necklace_069",
+    "image_name": "necklace_173.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This gold necklace features multiple strands adorned with yellow oval and purple square elements."
+  },
+  {
+    "id": "necklace_070",
+    "image_name": "necklace_174.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a series of alternating larger and smaller round metal elements."
+  },
+  {
+    "id": "necklace_071",
+    "image_name": "necklace_175.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a design with no stones."
+  },
+  {
+    "id": "necklace_072",
+    "image_name": "necklace_176.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring small round pearls along the double chain, with a textured gold geometric pendant."
+  },
+  {
+    "id": "necklace_073",
+    "image_name": "necklace_177.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring round stones."
+  },
+  {
+    "id": "necklace_074",
+    "image_name": "necklace_178.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a pendant composed of multiple interlocking rings."
+  },
+  {
+    "id": "necklace_075",
+    "image_name": "necklace_179.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a delicate chain interspersed with multiple interconnected circular rings."
+  },
+  {
+    "id": "necklace_076",
+    "image_name": "necklace_18.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace in a yellow color."
+  },
+  {
+    "id": "necklace_077",
+    "image_name": "necklace_180.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring five large oval-shaped metal elements along the chain."
+  },
+  {
+    "id": "necklace_078",
+    "image_name": "necklace_181.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "Rose gold necklace featuring a round pearl pendant."
+  },
+  {
+    "id": "necklace_079",
+    "image_name": "necklace_182.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain and uniform spherical gold elements."
+  },
+  {
+    "id": "necklace_080",
+    "image_name": "necklace_183.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring two strands of uniform gold beads."
+  },
+  {
+    "id": "necklace_081",
+    "image_name": "necklace_184.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features two plain interlocking rings and has no stones."
+  },
+  {
+    "id": "necklace_082",
+    "image_name": "necklace_185.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a central textured element and symmetrical open links."
+  },
+  {
+    "id": "necklace_083",
+    "image_name": "necklace_186.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This multi-strand gold necklace features intertwined yellow and white metallic elements."
+  },
+  {
+    "id": "necklace_084",
+    "image_name": "necklace_187.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain and a small drop design, featuring no stones."
+  },
+  {
+    "id": "necklace_085",
+    "image_name": "necklace_188.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no visible stones."
+  },
+  {
+    "id": "necklace_086",
+    "image_name": "necklace_189.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a delicate chain adorned with textured spherical beads."
+  },
+  {
+    "id": "necklace_087",
+    "image_name": "necklace_19.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features spaced oval-shaped stones along its length."
+  },
+  {
+    "id": "necklace_088",
+    "image_name": "necklace_190.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a delicate chain adorned with multiple spherical beads increasing in size towards the center."
+  },
+  {
+    "id": "necklace_089",
+    "image_name": "necklace_191.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_090",
+    "image_name": "necklace_192.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with multiple strands and no visible stones."
+  },
+  {
+    "id": "necklace_091",
+    "image_name": "necklace_193.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a two-layered gold necklace featuring delicate metal beads and small drop pendants, with no stones present."
+  },
+  {
+    "id": "necklace_092",
+    "image_name": "necklace_194.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace featuring multiple strands of small, round, metallic beads."
+  },
+  {
+    "id": "necklace_093",
+    "image_name": "necklace_195.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with multiple plain bead strands."
+  },
+  {
+    "id": "necklace_094",
+    "image_name": "necklace_196.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_095",
+    "image_name": "necklace_197.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_096",
+    "image_name": "necklace_198.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A delicate gold necklace featuring a central drop design with no visible stones."
+  },
+  {
+    "id": "necklace_097",
+    "image_name": "necklace_199.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features round beads, with some beads accented in white."
+  },
+  {
+    "id": "necklace_098",
+    "image_name": "necklace_2.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "A yellow metal necklace features five oval stones, alternating between purple and yellow, suspended on a delicate chain."
+  },
+  {
+    "id": "necklace_099",
+    "image_name": "necklace_20.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "A delicate gold necklace featuring oval-shaped emeralds, sapphires, and yellow gemstones."
+  },
+  {
+    "id": "necklace_100",
+    "image_name": "necklace_200.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring textured oval-shaped beads."
+  },
+  {
+    "id": "necklace_101",
+    "image_name": "necklace_201.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features round pearls distributed along the chain, forming a stylish Y-drop design."
+  },
+  {
+    "id": "necklace_102",
+    "image_name": "necklace_202.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a pendant with two birds on a branch, adorned with red ruby stones."
+  },
+  {
+    "id": "necklace_103",
+    "image_name": "necklace_203.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring multiple round pearls, spaced along a delicate chain with a Y-drop design."
+  },
+  {
+    "id": "necklace_104",
+    "image_name": "necklace_204.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a chain adorned with multiple round pearls, centered by a decorative drop with additional pearls."
+  },
+  {
+    "id": "necklace_105",
+    "image_name": "necklace_205.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a pendant with multiple round white pearls arranged in a tiered design."
+  },
+  {
+    "id": "necklace_106",
+    "image_name": "necklace_206.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring multiple round pearls along the chain."
+  },
+  {
+    "id": "necklace_107",
+    "image_name": "necklace_207.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace with 'LVE' pendant, featuring a heart made of round ruby stones."
+  },
+  {
+    "id": "necklace_108",
+    "image_name": "necklace_208.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a rectangular bar pendant with an open bottom."
+  },
+  {
+    "id": "necklace_109",
+    "image_name": "necklace_209.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain and no stones."
+  },
+  {
+    "id": "necklace_110",
+    "image_name": "necklace_21.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace featuring round black and pink stones evenly spaced along the chain."
+  },
+  {
+    "id": "necklace_111",
+    "image_name": "necklace_210.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace chain with a clasp and no stones."
+  },
+  {
+    "id": "necklace_112",
+    "image_name": "necklace_212.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This is a white silver necklace with no stones."
+  },
+  {
+    "id": "necklace_113",
+    "image_name": "necklace_213.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A white colored necklace with a snake chain design and no stones."
+  },
+  {
+    "id": "necklace_114",
+    "image_name": "necklace_214.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A white silver necklace with a twisted chain design and a spring ring clasp."
+  },
+  {
+    "id": "necklace_115",
+    "image_name": "necklace_215.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A white-colored necklace crafted from silver material, featuring no stones."
+  },
+  {
+    "id": "necklace_116",
+    "image_name": "necklace_216.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This white silver necklace features a simple ball chain design with no stones."
+  },
+  {
+    "id": "necklace_117",
+    "image_name": "necklace_217.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "This silver necklace features a white metallic chain with no stones."
+  },
+  {
+    "id": "necklace_118",
+    "image_name": "necklace_218.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "unknown",
+    "short_description": "A gold necklace featuring a two-tone chain design with yellow and white metal, and no stones."
+  },
+  {
+    "id": "necklace_119",
+    "image_name": "necklace_219.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "A pink rose gold necklace chain with no stones visible."
+  },
+  {
+    "id": "necklace_120",
+    "image_name": "necklace_22.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features round sapphire stones."
+  },
+  {
+    "id": "necklace_121",
+    "image_name": "necklace_220.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with round pearls."
+  },
+  {
+    "id": "necklace_122",
+    "image_name": "necklace_221.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple, yellow gold necklace featuring a twisted chain design."
+  },
+  {
+    "id": "necklace_123",
+    "image_name": "necklace_222.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace without stones."
+  },
+  {
+    "id": "necklace_124",
+    "image_name": "necklace_223.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones, featuring a classic chain design."
+  },
+  {
+    "id": "necklace_125",
+    "image_name": "necklace_224.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a textured chain, featuring a lobster clasp closure and no embellishments."
+  },
+  {
+    "id": "necklace_126",
+    "image_name": "necklace_225.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a textured chain and no stones."
+  },
+  {
+    "id": "necklace_127",
+    "image_name": "necklace_226.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_128",
+    "image_name": "necklace_227.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones, featuring a unique link design."
+  },
+  {
+    "id": "necklace_129",
+    "image_name": "necklace_228.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a textured chain design and no visible stones."
+  },
+  {
+    "id": "necklace_130",
+    "image_name": "necklace_229.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a twisted rope chain design and a lobster clasp, featuring no stones."
+  },
+  {
+    "id": "necklace_131",
+    "image_name": "necklace_23.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace features multiple round stones in yellow and dark hues."
+  },
+  {
+    "id": "necklace_132",
+    "image_name": "necklace_230.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_133",
+    "image_name": "necklace_231.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no visible stones, featuring a textured chain design."
+  },
+  {
+    "id": "necklace_134",
+    "image_name": "necklace_232.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no visible stones."
+  },
+  {
+    "id": "necklace_135",
+    "image_name": "necklace_233.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features several oval diamond stones."
+  },
+  {
+    "id": "necklace_136",
+    "image_name": "necklace_234.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features multiple oval diamonds set along its two strands."
+  },
+  {
+    "id": "necklace_137",
+    "image_name": "necklace_235.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow-colored necklace featuring a central round medallion with decorative hanging elements and mixed yellow and white beads."
+  },
+  {
+    "id": "necklace_138",
+    "image_name": "necklace_236.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace."
+  },
+  {
+    "id": "necklace_139",
+    "image_name": "necklace_237.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "unknown",
+    "short_description": "A gold necklace composed of small beads, presented in a delicate design."
+  },
+  {
+    "id": "necklace_140",
+    "image_name": "necklace_238.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A white-colored chain with no stones is depicted."
+  },
+  {
+    "id": "necklace_141",
+    "image_name": "necklace_239.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace featuring a simple chain design with no visible stones."
+  },
+  {
+    "id": "necklace_142",
+    "image_name": "necklace_24.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "unknown",
+    "short_description": "A gold necklace featuring multiple round stones spaced along the chain."
+  },
+  {
+    "id": "necklace_143",
+    "image_name": "necklace_240.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_144",
+    "image_name": "necklace_241.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_145",
+    "image_name": "necklace_242.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_146",
+    "image_name": "necklace_243.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace featuring a simple chain design with no stones."
+  },
+  {
+    "id": "necklace_147",
+    "image_name": "necklace_244.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This necklace features a simple bi-color chain with yellow and white metal segments."
+  },
+  {
+    "id": "necklace_148",
+    "image_name": "necklace_245.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no visible stones."
+  },
+  {
+    "id": "necklace_149",
+    "image_name": "necklace_246.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace without stones."
+  },
+  {
+    "id": "necklace_150",
+    "image_name": "necklace_247.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace without any stones."
+  },
+  {
+    "id": "necklace_151",
+    "image_name": "necklace_248.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This gold necklace features alternating yellow and white toned metal links, forming a delicate chain."
+  },
+  {
+    "id": "necklace_152",
+    "image_name": "necklace_249.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a simple chain design."
+  },
+  {
+    "id": "necklace_153",
+    "image_name": "necklace_25.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This gold necklace features round emerald stones interspersed along a delicate chain."
+  },
+  {
+    "id": "necklace_154",
+    "image_name": "necklace_250.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold chain necklace with no stones."
+  },
+  {
+    "id": "necklace_155",
+    "image_name": "necklace_251.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no visible stones."
+  },
+  {
+    "id": "necklace_156",
+    "image_name": "necklace_252.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold-colored necklace with no stones."
+  },
+  {
+    "id": "necklace_157",
+    "image_name": "necklace_253.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a plain design without any stones."
+  },
+  {
+    "id": "necklace_158",
+    "image_name": "necklace_254.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A plain yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_159",
+    "image_name": "necklace_255.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold chain necklace with alternating bar-shaped and spherical links."
+  },
+  {
+    "id": "necklace_160",
+    "image_name": "necklace_256.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a chain design with rhombus links and small bead accents."
+  },
+  {
+    "id": "necklace_161",
+    "image_name": "necklace_257.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring an elongated link chain design with no stones."
+  },
+  {
+    "id": "necklace_162",
+    "image_name": "necklace_258.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with an ornate link chain design and no stones."
+  },
+  {
+    "id": "necklace_163",
+    "image_name": "necklace_259.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold-colored necklace featuring an oval and floral link design, with no stones present."
+  },
+  {
+    "id": "necklace_164",
+    "image_name": "necklace_26.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features round blue sapphires and additional round black and gold decorative elements."
+  },
+  {
+    "id": "necklace_165",
+    "image_name": "necklace_260.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain design."
+  },
+  {
+    "id": "necklace_166",
+    "image_name": "necklace_261.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a chain design with no stones."
+  },
+  {
+    "id": "necklace_167",
+    "image_name": "necklace_262.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold chain necklace with elongated oval links."
+  },
+  {
+    "id": "necklace_168",
+    "image_name": "necklace_263.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with an elongated oval link design and no stones."
+  },
+  {
+    "id": "necklace_169",
+    "image_name": "necklace_264.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a chain with small, round metallic beads and no stones."
+  },
+  {
+    "id": "necklace_170",
+    "image_name": "necklace_265.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A delicate yellow gold necklace featuring a thin chain interspersed with small spherical metal beads."
+  },
+  {
+    "id": "necklace_171",
+    "image_name": "necklace_266.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a delicate chain with small spherical details."
+  },
+  {
+    "id": "necklace_172",
+    "image_name": "necklace_267.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with small spherical accents and no stones."
+  },
+  {
+    "id": "necklace_173",
+    "image_name": "necklace_268.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a delicate chain adorned with small, round metal beads."
+  },
+  {
+    "id": "necklace_174",
+    "image_name": "necklace_269.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold chain necklace featuring intertwined yellow and white colored strands."
+  },
+  {
+    "id": "necklace_175",
+    "image_name": "necklace_27.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "oval",
+    "color": "yellow",
+    "short_description": "This gold necklace features oval emerald stones on a yellow chain."
+  },
+  {
+    "id": "necklace_176",
+    "image_name": "necklace_270.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features multiple delicate chains with small metallic bead embellishments."
+  },
+  {
+    "id": "necklace_177",
+    "image_name": "necklace_271.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a textured chain design and no stones."
+  },
+  {
+    "id": "necklace_178",
+    "image_name": "necklace_272.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_179",
+    "image_name": "necklace_273.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold chain necklace with no stones."
+  },
+  {
+    "id": "necklace_180",
+    "image_name": "necklace_274.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace featuring a classic chain design."
+  },
+  {
+    "id": "necklace_181",
+    "image_name": "necklace_275.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_182",
+    "image_name": "necklace_276.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace chain with no stones."
+  },
+  {
+    "id": "necklace_183",
+    "image_name": "necklace_277.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_184",
+    "image_name": "necklace_278.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold chain necklace with no stones."
+  },
+  {
+    "id": "necklace_185",
+    "image_name": "necklace_279.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold chain necklace without stones is featured in this image."
+  },
+  {
+    "id": "necklace_186",
+    "image_name": "necklace_28.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "ruby",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring round ruby stones set along a delicate yellow chain."
+  },
+  {
+    "id": "necklace_187",
+    "image_name": "necklace_280.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A plain gold necklace in a yellow color with no visible stones."
+  },
+  {
+    "id": "necklace_188",
+    "image_name": "necklace_281.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a woven chain design with no stones."
+  },
+  {
+    "id": "necklace_189",
+    "image_name": "necklace_282.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This necklace features a yellow gold chain with alternating red and green enamel accents."
+  },
+  {
+    "id": "necklace_190",
+    "image_name": "necklace_283.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow necklace with unknown material."
+  },
+  {
+    "id": "necklace_191",
+    "image_name": "necklace_284.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_192",
+    "image_name": "necklace_285.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_193",
+    "image_name": "necklace_286.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A plain yellow gold necklace with no stones, featuring a classic chain design."
+  },
+  {
+    "id": "necklace_194",
+    "image_name": "necklace_287.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a textured chain and a simple hook clasp, featuring no stones."
+  },
+  {
+    "id": "necklace_195",
+    "image_name": "necklace_288.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace featuring a classic chain design."
+  },
+  {
+    "id": "necklace_196",
+    "image_name": "necklace_289.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace without stones."
+  },
+  {
+    "id": "necklace_197",
+    "image_name": "necklace_29.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This rose gold necklace features a heart-shaped pendant with a small round diamond."
+  },
+  {
+    "id": "necklace_198",
+    "image_name": "necklace_290.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold ball chain necklace with no stones."
+  },
+  {
+    "id": "necklace_199",
+    "image_name": "necklace_291.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_200",
+    "image_name": "necklace_292.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a simple chain design with no stones."
+  },
+  {
+    "id": "necklace_201",
+    "image_name": "necklace_293.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_202",
+    "image_name": "necklace_294.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain design and no stones."
+  },
+  {
+    "id": "necklace_203",
+    "image_name": "necklace_295.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold ball chain necklace with a hook clasp."
+  },
+  {
+    "id": "necklace_204",
+    "image_name": "necklace_296.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no visible stones."
+  },
+  {
+    "id": "necklace_205",
+    "image_name": "necklace_297.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_206",
+    "image_name": "necklace_298.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A plain yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_207",
+    "image_name": "necklace_299.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace."
+  },
+  {
+    "id": "necklace_208",
+    "image_name": "necklace_3.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring five round stones in green and yellow."
+  },
+  {
+    "id": "necklace_209",
+    "image_name": "necklace_30.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with a central yellow element."
+  },
+  {
+    "id": "necklace_210",
+    "image_name": "necklace_300.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace without any stones."
+  },
+  {
+    "id": "necklace_211",
+    "image_name": "necklace_301.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_212",
+    "image_name": "necklace_302.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold chain necklace with a clasp, featuring no stones."
+  },
+  {
+    "id": "necklace_213",
+    "image_name": "necklace_303.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This gold necklace features a yellow color and no stones."
+  },
+  {
+    "id": "necklace_214",
+    "image_name": "necklace_304.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a delicate chain and no stones."
+  },
+  {
+    "id": "necklace_215",
+    "image_name": "necklace_305.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_216",
+    "image_name": "necklace_306.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_217",
+    "image_name": "necklace_307.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a classic chain design."
+  },
+  {
+    "id": "necklace_218",
+    "image_name": "necklace_308.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_219",
+    "image_name": "necklace_309.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace without stones."
+  },
+  {
+    "id": "necklace_220",
+    "image_name": "necklace_31.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "round",
+    "color": "green",
+    "short_description": "A gold necklace features a round emerald stone."
+  },
+  {
+    "id": "necklace_221",
+    "image_name": "necklace_310.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a simple chain design with no stones."
+  },
+  {
+    "id": "necklace_222",
+    "image_name": "necklace_311.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_223",
+    "image_name": "necklace_312.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_224",
+    "image_name": "necklace_313.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This is a yellow gold chain necklace with no stones."
+  },
+  {
+    "id": "necklace_225",
+    "image_name": "necklace_314.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_226",
+    "image_name": "necklace_315.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_227",
+    "image_name": "necklace_316.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a plain chain design with no stones."
+  },
+  {
+    "id": "necklace_228",
+    "image_name": "necklace_317.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_229",
+    "image_name": "necklace_318.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a simple chain design with no stones."
+  },
+  {
+    "id": "necklace_230",
+    "image_name": "necklace_319.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A simple yellow gold chain necklace with no stones is presented."
+  },
+  {
+    "id": "necklace_231",
+    "image_name": "necklace_32.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A white-colored necklace features a delicate chain and a polished bar pendant, with no stones present."
+  },
+  {
+    "id": "necklace_232",
+    "image_name": "necklace_320.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with no stones."
+  },
+  {
+    "id": "necklace_233",
+    "image_name": "necklace_33.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a bar-shaped pendant with multiple rows of round diamonds."
+  },
+  {
+    "id": "necklace_234",
+    "image_name": "necklace_34.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This white necklace features a teardrop pendant with round diamond stones."
+  },
+  {
+    "id": "necklace_235",
+    "image_name": "necklace_35.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a 'love' pendant with a round pearl."
+  },
+  {
+    "id": "necklace_236",
+    "image_name": "necklace_36.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features round diamonds set along the chain and within a central drop pendant."
+  },
+  {
+    "id": "necklace_237",
+    "image_name": "necklace_37.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "princess",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features princess-cut diamonds in a delicate leaf-inspired design."
+  },
+  {
+    "id": "necklace_238",
+    "image_name": "necklace_38.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a patterned design, adorned with small round diamonds."
+  },
+  {
+    "id": "necklace_239",
+    "image_name": "necklace_39.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a detailed pendant with round diamonds."
+  },
+  {
+    "id": "necklace_240",
+    "image_name": "necklace_4.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace features round pearls in alternating yellow and black colors along a delicate chain."
+  },
+  {
+    "id": "necklace_241",
+    "image_name": "necklace_40.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This necklace features a yellow gold chain and white metal accents, adorned with small round diamonds."
+  },
+  {
+    "id": "necklace_242",
+    "image_name": "necklace_41.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace features multiple round diamonds, creating a yellow and white color combination."
+  },
+  {
+    "id": "necklace_243",
+    "image_name": "necklace_42.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This gold necklace features a flowing design with round diamonds and white gold accents, forming floral clusters."
+  },
+  {
+    "id": "necklace_244",
+    "image_name": "necklace_43.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace adorned with diamonds."
+  },
+  {
+    "id": "necklace_245",
+    "image_name": "necklace_44.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features multiple round diamonds set along the chain."
+  },
+  {
+    "id": "necklace_246",
+    "image_name": "necklace_45.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring multiple round diamond clusters along the front section."
+  },
+  {
+    "id": "necklace_247",
+    "image_name": "necklace_46.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This necklace features yellow gold and white metal settings adorned with multiple round diamonds."
+  },
+  {
+    "id": "necklace_248",
+    "image_name": "necklace_47.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "unknown",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This gold necklace features round stones and a pink pendant."
+  },
+  {
+    "id": "necklace_249",
+    "image_name": "necklace_48.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace with a decorative centerpiece and a small diamond accent."
+  },
+  {
+    "id": "necklace_250",
+    "image_name": "necklace_49.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This is a yellow gold necklace featuring multiple round diamonds."
+  },
+  {
+    "id": "necklace_251",
+    "image_name": "necklace_50.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring a crown-shaped pendant."
+  },
+  {
+    "id": "necklace_252",
+    "image_name": "necklace_51.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features delicate chains with decorative pattern elements."
+  },
+  {
+    "id": "necklace_253",
+    "image_name": "necklace_52.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a round sapphire stone centered within a floral pendant adorned with clear stones."
+  },
+  {
+    "id": "necklace_254",
+    "image_name": "necklace_53.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a double chain with blue evil eye pendants."
+  },
+  {
+    "id": "necklace_255",
+    "image_name": "necklace_54.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a round sapphire pendant surrounded by small clear stones."
+  },
+  {
+    "id": "necklace_256",
+    "image_name": "necklace_55.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This necklace features a silver-toned chain with round diamonds and a white sculpted pendant, accented with rose gold details."
+  },
+  {
+    "id": "necklace_257",
+    "image_name": "necklace_56.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "A rose gold necklace features a pink flower-shaped pendant adorned with round diamonds, complemented by a rose gold butterfly detail."
+  },
+  {
+    "id": "necklace_258",
+    "image_name": "necklace_57.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace featuring a black pendant adorned with round diamonds."
+  },
+  {
+    "id": "necklace_259",
+    "image_name": "necklace_58.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A necklace featuring a white element, rose gold accents, and small round diamond stones."
+  },
+  {
+    "id": "necklace_260",
+    "image_name": "necklace_59.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This necklace features a pink round main stone with smaller round diamonds, set in an unknown two-tone metal design."
+  },
+  {
+    "id": "necklace_261",
+    "image_name": "necklace_6.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "heart",
+    "color": "pink",
+    "short_description": "A gold necklace featuring a heart-shaped pink stone."
+  },
+  {
+    "id": "necklace_262",
+    "image_name": "necklace_60.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "white",
+    "short_description": "A necklace featuring a white metal chain and an intricately shaped pendant."
+  },
+  {
+    "id": "necklace_263",
+    "image_name": "necklace_61.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "This necklace features a pendant with white elements and round diamonds, suspended from a delicate chain."
+  },
+  {
+    "id": "necklace_264",
+    "image_name": "necklace_62.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This necklace features a pink pendant framed by round diamonds, with a silver-toned chain and a rose gold-toned butterfly accent."
+  },
+  {
+    "id": "necklace_265",
+    "image_name": "necklace_63.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace features round diamonds accenting an ornate black centerpiece."
+  },
+  {
+    "id": "necklace_266",
+    "image_name": "necklace_64.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "This necklace features a gold chain with a pendant adorned with round diamonds and a light blue central stone."
+  },
+  {
+    "id": "necklace_267",
+    "image_name": "necklace_65.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "A gold necklace featuring a light blue pendant adorned with round diamonds."
+  },
+  {
+    "id": "necklace_268",
+    "image_name": "necklace_66.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a pendant with round diamonds and a light blue-green central element."
+  },
+  {
+    "id": "necklace_269",
+    "image_name": "necklace_67.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "green",
+    "short_description": "A gold necklace features a green pendant with small round diamonds."
+  },
+  {
+    "id": "necklace_270",
+    "image_name": "necklace_68.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace features a black pendant adorned with round diamonds and small ruby accents on a delicate chain."
+  },
+  {
+    "id": "necklace_271",
+    "image_name": "necklace_69.jpg",
+    "category": "necklace",
+    "material": "platinum",
+    "stone_type": "sapphire",
+    "stone_shape": "square",
+    "color": "blue",
+    "short_description": "A platinum necklace with blue sapphire and diamond stones in a radiating pendant design."
+  },
+  {
+    "id": "necklace_272",
+    "image_name": "necklace_7.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "heart",
+    "color": "blue",
+    "short_description": "A gold necklace features a heart-shaped blue stone."
+  },
+  {
+    "id": "necklace_273",
+    "image_name": "necklace_70.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "none",
+    "color": "green",
+    "short_description": "A gold necklace features a pendant adorned with green emeralds and white diamonds."
+  },
+  {
+    "id": "necklace_274",
+    "image_name": "necklace_71.jpg",
+    "category": "necklace",
+    "material": "silver",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "white",
+    "short_description": "A silver necklace features a wavy bar pendant adorned with round diamonds."
+  },
+  {
+    "id": "necklace_275",
+    "image_name": "necklace_72.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This necklace features rose gold metal set with round diamonds in a curved design."
+  },
+  {
+    "id": "necklace_276",
+    "image_name": "necklace_73.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace features a leaf-shaped pendant with multiple round diamonds."
+  },
+  {
+    "id": "necklace_277",
+    "image_name": "necklace_74.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring clear diamond stones set in an intricate pattern."
+  },
+  {
+    "id": "necklace_278",
+    "image_name": "necklace_75.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "This gold necklace features diamond stones and a dangling pendant design."
+  },
+  {
+    "id": "necklace_279",
+    "image_name": "necklace_76.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace features a decorative pendant adorned with small round diamonds, presenting a elegant and delicate design."
+  },
+  {
+    "id": "necklace_280",
+    "image_name": "necklace_77.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a pendant with interlocking circles and dangling chains, accented with round diamonds."
+  },
+  {
+    "id": "necklace_281",
+    "image_name": "necklace_78.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold angel pendant features pave-set round diamonds on its wings, holding a small heart."
+  },
+  {
+    "id": "necklace_282",
+    "image_name": "necklace_79.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features diamond stones, with one in a heart shape."
+  },
+  {
+    "id": "necklace_283",
+    "image_name": "necklace_80.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a pendant with a diamond-studded heart, an additional plain heart, and small round elements."
+  },
+  {
+    "id": "necklace_284",
+    "image_name": "necklace_81.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring flower-shaped pendants in yellow and white metal."
+  },
+  {
+    "id": "necklace_285",
+    "image_name": "necklace_82.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This elegant necklace features gold in yellow and white tones, accented with round diamonds, blue sapphires, and green emerald drops."
+  },
+  {
+    "id": "necklace_286",
+    "image_name": "necklace_83.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "sapphire",
+    "stone_shape": "round",
+    "color": "blue",
+    "short_description": "A gold necklace featuring blue sapphires and round diamonds, accented with a pearl."
+  },
+  {
+    "id": "necklace_287",
+    "image_name": "necklace_84.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "pink",
+    "short_description": "This gold necklace features pink flower-shaped elements and small round diamonds on multiple intertwined chains."
+  },
+  {
+    "id": "necklace_288",
+    "image_name": "necklace_85.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This necklace features multiple strands of round pearls, accented with yellow gold settings."
+  },
+  {
+    "id": "necklace_289",
+    "image_name": "necklace_86.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A multi-strand yellow gold necklace featuring numerous round pearls and a central pendant with a clear stone."
+  },
+  {
+    "id": "necklace_290",
+    "image_name": "necklace_87.jpg",
+    "category": "necklace",
+    "material": "unknown",
+    "stone_type": "none",
+    "stone_shape": "none",
+    "color": "pink",
+    "short_description": "This necklace features pink stones within circular settings and has a two-tone metal chain."
+  },
+  {
+    "id": "necklace_291",
+    "image_name": "necklace_88.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "pearl",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring round pearls and delicate small clear stones."
+  },
+  {
+    "id": "necklace_292",
+    "image_name": "necklace_89.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "emerald",
+    "stone_shape": "round",
+    "color": "green",
+    "short_description": "This gold necklace features a chain adorned with round emeralds and a detailed pendant."
+  },
+  {
+    "id": "necklace_293",
+    "image_name": "necklace_9.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "none",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "A gold necklace features a heart-shaped stone set within a four-leaf clover pendant."
+  },
+  {
+    "id": "necklace_294",
+    "image_name": "necklace_91.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace features multiple strands with round diamonds set in a decorative pattern on the central element."
+  },
+  {
+    "id": "necklace_295",
+    "image_name": "necklace_93.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring a curved central element adorned with numerous round diamonds."
+  },
+  {
+    "id": "necklace_296",
+    "image_name": "necklace_95.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "This yellow gold necklace features a central bar adorned with round diamonds, including flower-shaped clusters."
+  },
+  {
+    "id": "necklace_297",
+    "image_name": "necklace_96.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold necklace featuring round diamonds in a central decorative element."
+  },
+  {
+    "id": "necklace_298",
+    "image_name": "necklace_97.jpg",
+    "category": "necklace",
+    "material": "rose gold",
+    "stone_type": "ruby",
+    "stone_shape": "oval",
+    "color": "pink",
+    "short_description": "A rose gold necklace features two birds adorned with oval ruby stones, accented by small diamonds on a branch."
+  },
+  {
+    "id": "necklace_299",
+    "image_name": "necklace_98.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "heart",
+    "color": "yellow",
+    "short_description": "A gold necklace featuring circular pendants with letters and a heart-shaped diamond."
+  },
+  {
+    "id": "necklace_300",
+    "image_name": "necklace_99.jpg",
+    "category": "necklace",
+    "material": "gold",
+    "stone_type": "diamond",
+    "stone_shape": "round",
+    "color": "yellow",
+    "short_description": "A yellow gold double-layered necklace features an arrow pendant and \"I LOVE U\" lettering, with the 'O' adorned with round diamonds."
+  }
+]
