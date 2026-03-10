@@ -17,12 +17,12 @@ This project implements a **full-stack multimodal RAG-style retrieval system** f
 
 The system combines:
 
-* 🔎 **Text Search** with LLM query rewriting
-* 🖼 **Image Search** using CLIP embeddings
-* ✍️ **Handwritten Query Understanding** using OCR + LLM
-* 🔀 **Hybrid Retrieval** (FAISS dense search + BM25 lexical search)
-* 🎯 **Cross-Encoder Reranking** for improved relevance
-* 🖥 **Interactive React UI** for browsing jewellery results
+* **Text Search** with LLM query rewriting
+* **Image Search** using CLIP embeddings
+* **Handwritten Query Understanding** using OCR + LLM
+* **Hybrid Retrieval** (FAISS dense search + BM25 lexical search)
+* **Cross-Encoder Reranking** for improved relevance
+* **Interactive React UI** for browsing jewellery results
 
 Current dataset:
 
