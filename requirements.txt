@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+numpy
+nltk
+rank-bm25
+faiss-cpu
+torch
+transformers
+sentence-transformers
+openai
+python-dotenv
+opencv-python
+tqdm
