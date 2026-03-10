@@ -67,20 +67,20 @@ Current dataset:
 
 ## Backend
 
-* **FastAPI**
-* **FAISS**
-* **Transformers**
-* **SentenceTransformers**
-* **NLTK**
-* **Pillow**
-* **NumPy**
-* **OpenAI-compatible LLM API**
+* FastAPI
+* FAISS
+* Transformers
+* SentenceTransformers
+* NLTK
+* Pillow
+* NumPy
+* OpenAI-compatible LLM API
 
 ## Frontend
 
-* **React 18**
-* **Vite**
-* **Axios**
+* React 18
+* Vite
+* Axios
 
 ---
 
