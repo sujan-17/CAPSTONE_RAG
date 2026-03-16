@@ -6,16 +6,14 @@ Both → merge results
 """
 
 import pickle
+import re
 from pathlib import Path
-
-import nltk
-from nltk.tokenize import word_tokenize
 
 # =========================
 # CONFIG
 # =========================
 
-BM25_DIR = Path("bm25")
+BM25_DIR = Path(__file__).resolve().parent / "bm25"
 TOP_K = 10
 
 # =========================
@@ -30,12 +28,16 @@ def load_bm25(category):
 bm25_ring, ring_map = load_bm25("ring")
 bm25_necklace, necklace_map = load_bm25("necklace")
 
+
+def tokenize(text: str):
+    return re.findall(r"[a-z0-9]+", text.lower())
+
 # =========================
 # SEARCH
 # =========================
 
 def bm25_search(query, category="both", top_k=TOP_K):
-    tokens = word_tokenize(query.lower())
+    tokens = tokenize(query)
     results = []
 
     if category in ("ring", "both"):

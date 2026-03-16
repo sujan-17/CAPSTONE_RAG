@@ -1,0 +1,219 @@
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(22, 16, 12, 0.72);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 1rem;
+  animation: fadeIn 0.2s ease;
+  backdrop-filter: blur(8px);
+}
+
+.modal-content {
+  background: linear-gradient(180deg, rgba(255, 253, 249, 0.98), rgba(246, 237, 224, 0.96));
+  border-radius: 30px;
+  max-width: 980px;
+  width: 100%;
+  max-height: 90vh;
+  overflow: hidden;
+  position: relative;
+  animation: slideUp 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.34);
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.modal-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: rgba(255, 250, 244, 0.92);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  color: var(--text-secondary);
+  transition: var(--transition);
+  z-index: 10;
+}
+
+.modal-close:hover {
+  background: var(--primary-color);
+  color: white;
+}
+
+.modal-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.modal-image-section {
+  position: relative;
+  background: linear-gradient(180deg, #fffaf3, #efe2cf);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+
+.modal-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  max-height: 500px;
+}
+
+.modal-score-badge {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: rgba(26, 26, 46, 0.9);
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-sm);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1;
+  backdrop-filter: blur(4px);
+}
+
+.modal-score-badge .score-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+.modal-score-badge .score-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  opacity: 0.8;
+}
+
+.modal-details {
+  padding: 2rem;
+}
+
+.modal-title {
+  font-size: 2.8rem;
+  color: var(--primary-color);
+  margin-bottom: 0.8rem;
+}
+
+.modal-description {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1.7rem;
+}
+
+.modal-attributes {
+  margin-bottom: 1.5rem;
+}
+
+.modal-attributes h3 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: var(--accent-strong);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(120, 93, 65, 0.14);
+}
+
+.attributes-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.attribute-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.95rem 1rem;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.58);
+  border: 1px solid rgba(120, 93, 65, 0.08);
+}
+
+.attribute-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.attribute-value {
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.modal-id {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(120, 93, 65, 0.14);
+}
+
+.id-label {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.id-value {
+  font-size: 0.85rem;
+  color: var(--accent-color);
+  font-family: monospace;
+}
+
+@media (max-width: 768px) {
+  .modal-body {
+    grid-template-columns: 1fr;
+  }
+
+  .modal-image-section {
+    min-height: 250px;
+  }
+
+  .modal-image {
+    max-height: 300px;
+  }
+
+  .modal-details {
+    padding: 1.5rem;
+  }
+
+  .modal-title {
+    font-size: 2.2rem;
+  }
+
+  .attributes-grid {
+    grid-template-columns: 1fr;
+  }
+}

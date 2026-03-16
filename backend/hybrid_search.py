@@ -5,8 +5,8 @@ Category-aware and accuracy-first
 
 import numpy as np
 
-from faiss_search import encode_text, faiss_search
-from bm25_search import bm25_search
+from .faiss_search import encode_text, faiss_search
+from .bm25_search import bm25_search
 
 # =========================
 # CONFIG

@@ -5,10 +5,9 @@ Ring and Necklace handled separately
 
 import json
 import pickle
+import re
 from pathlib import Path
 
-import nltk
-from nltk.tokenize import word_tokenize
 from rank_bm25 import BM25Okapi
 
 # =========================
@@ -24,6 +23,10 @@ FILES = {
     "ring": "ring_metadata.json",
     "necklace": "necklace_metadata.json"
 }
+
+
+def tokenize(text: str):
+    return re.findall(r"[a-z0-9]+", text.lower())
 
 # =========================
 # HELPERS
@@ -53,7 +56,7 @@ for category, file_name in FILES.items():
 
     for item in data:
         text = metadata_to_text(item)
-        tokens = word_tokenize(text)
+        tokens = tokenize(text)
         corpus.append(tokens)
         id_map.append(item)
 

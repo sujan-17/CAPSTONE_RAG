@@ -17,8 +17,9 @@ from transformers import CLIPProcessor, CLIPModel
 # CONFIG
 # =========================
 
-FAISS_INDEX_PATH = Path("faiss/image.index")
-ID_MAPPING_PATH = Path("embeddings/id_mapping.json")
+BASE_DIR = Path(__file__).resolve().parent
+FAISS_INDEX_PATH = BASE_DIR / "faiss" / "image.index"
+ID_MAPPING_PATH = BASE_DIR / "embeddings" / "id_mapping.json"
 
 MODEL_NAME = "openai/clip-vit-large-patch14"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"

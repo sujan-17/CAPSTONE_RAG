@@ -1,26 +1,29 @@
+from pathlib import Path
+import io
+
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from PIL import Image
-import io
-import numpy as np
-import json
 
-from query_router import route_query
-from query_rewriter import rewrite_query
-from ocr_pipeline import ocr_pipeline
-from hybrid_search import hybrid_search
-from reranker import rerank
+from .query_router import route_query
+from .query_rewriter import rewrite_query
+from .ocr_pipeline import ocr_pipeline
+from .hybrid_search import hybrid_search
+from .reranker import rerank
+from .faiss_search import encode_image, faiss_search
+
 
 # =========================
 # APP SETUP
 # =========================
 
 app = FastAPI(title="Jewellery Multimodal RAG")
+BASE_DIR = Path(__file__).resolve().parent
 
 app.mount(
     "/static",
-    StaticFiles(directory="data/raw"),
+    StaticFiles(directory=str(BASE_DIR / "data" / "raw")),
     name="static"
 )
 
@@ -108,29 +111,19 @@ async def search_image(file: UploadFile = File(...)):
             "results": final_results
         }
 
-    # ---- JEWEL / SKETCH IMAGE (CRITICAL FIX) ----
-    image_description = result["description"]
-    rewritten_query = rewrite_query(image_description)
+    # ---- JEWEL / SKETCH IMAGE (FAISS ONLY) ----
+    query_embedding = encode_image(image)
 
-    routed = route_query(rewritten_query)
-    category = routed["category"]
-
-    candidates = hybrid_search(
-        query=rewritten_query,
-        category=category,
-        top_k=15
-    )
-
-    final_results = rerank(
-        query=rewritten_query,
-        candidates=candidates,
+    # We skip rewrite + routing + hybrid + rerank
+    final_results = faiss_search(
+        query_embedding=query_embedding,
+        category="both",   # no filtering unless you want
         top_k=10
     )
 
     return {
         "query_type": "image",
-        "image_description": image_description,
-        "rewritten_query": rewritten_query,
-        "category": category,
+        "category": "both",
         "results": final_results
     }
+
