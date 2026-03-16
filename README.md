@@ -2,85 +2,85 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
+![React](https://img.shields.io/badge/React-Vite%20Frontend-61dafb)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-orange)
 ![CLIP](https://img.shields.io/badge/CLIP-Multimodal-purple)
 
-AI-powered multimodal jewellery retrieval system supporting text search, image search, OCR-based handwritten queries, and hybrid retrieval with a Streamlit frontend.
+AI-powered multimodal jewellery retrieval system with a FastAPI backend and a React/Vite frontend. The app supports text search, image search, handwritten query understanding, hybrid retrieval, and reranking for more relevant jewellery results.
 
----
+## Overview
 
-# Overview
+This project is a full-stack multimodal retrieval application for jewellery discovery.
 
-This project implements a full-stack multimodal RAG-style retrieval system for jewellery discovery.
+Main capabilities:
 
-The system combines:
-
-* Text search with LLM query rewriting
-* Image search using CLIP embeddings
-* Handwritten query understanding using OCR + LLM
-* Hybrid retrieval with FAISS dense search + BM25 lexical search
-* Cross-encoder reranking for improved relevance
-* Interactive Streamlit UI for browsing jewellery results
+- Text search with LLM-based query rewriting
+- Category routing for `ring`, `necklace`, or `both`
+- Hybrid retrieval using FAISS dense search and BM25 lexical search
+- Cross-encoder reranking for final result quality
+- Image search using CLIP image embeddings
+- Handwritten text handling through the OCR + LLM pipeline
+- Modern React frontend with filters, result cards, and modal details
 
 Current dataset:
 
-* 189 rings
-* 301 necklaces
-* 490 total jewellery items
+- 189 rings
+- 301 necklaces
+- 490 total jewellery items
 
----
+## Architecture
 
-# System Architecture
-
-## Text Query Pipeline
+### Text Query Pipeline
 
 1. User enters a jewellery query.
-2. Query is rewritten using an LLM.
-3. Router predicts category (`ring`, `necklace`, `both`).
+2. The query is rewritten by the LLM query rewriter.
+3. The query router predicts the category: `ring`, `necklace`, or `both`.
 4. Hybrid retrieval runs:
-   * CLIP embedding search (FAISS)
-   * BM25 lexical retrieval
-5. Results are reranked using a cross-encoder.
-6. Streamlit displays the best matching jewellery items.
+   - FAISS dense retrieval with CLIP text embeddings
+   - BM25 lexical retrieval
+5. Retrieved candidates are reranked with a cross-encoder.
+6. The frontend displays the final ranked results.
 
-## Image Query Pipeline
+### Image Query Pipeline
 
 1. User uploads an image.
-2. OCR pipeline checks if it contains handwritten text.
+2. The OCR pipeline checks whether the image contains handwritten text.
 3. If handwritten text is detected:
-   * Text is extracted.
-   * The system switches to the text query pipeline.
+   - Text is extracted
+   - The app falls back to the text-query pipeline
 4. Otherwise:
-   * The image is encoded using CLIP.
-   * FAISS retrieves visually similar jewellery items.
+   - The image is encoded with CLIP
+   - FAISS returns visually similar jewellery items
 
----
+## Tech Stack
 
-# Tech Stack
+### Backend
 
-## Backend
+- FastAPI
+- Uvicorn
+- FAISS
+- Transformers
+- SentenceTransformers
+- OpenAI-compatible LLM API
+- Pillow
+- NumPy
+- rank-bm25
+- Torch
+- OpenCV
 
-* FastAPI
-* FAISS
-* Transformers
-* SentenceTransformers
-* NLTK
-* Pillow
-* NumPy
-* OpenAI-compatible LLM API
+### Frontend
 
-## Frontend
+- React
+- Vite
+- Axios
+- Custom CSS
 
-* Streamlit
+## Project Structure
 
----
-
-# Project Structure
-
-```bash
+```text
 CAPSTONE_RAG/
 |-- backend/
+|   |-- __init__.py
 |   |-- app.py
 |   |-- query_rewriter.py
 |   |-- query_router.py
@@ -97,37 +97,41 @@ CAPSTONE_RAG/
 |   |-- faiss/
 |   `-- bm25/
 |-- frontend/
-|   `-- streamlit.py
+|   |-- index.html
+|   |-- package.json
+|   |-- vite.config.js
+|   `-- src/
 |-- requirements.txt
+|-- .gitignore
 `-- README.md
 ```
 
----
+## Setup
 
-# Quick Start
+### 1. Clone the Repository
 
-## 1. Clone the Repository
-
-```bash
+```powershell
 git clone <your-repo-url>
 cd CAPSTONE_RAG
 ```
 
-## 2. Set Up the Environment
+### 2. Create and Activate a Python Virtual Environment
 
-```bash
+```powershell
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Download the NLTK tokenizer:
+### 3. Install Frontend Dependencies
 
-```bash
-python -c "import nltk; nltk.download('punkt')"
+```powershell
+cd frontend
+npm install
+cd ..
 ```
 
-## 3. Environment Variables
+### 4. Configure Environment Variables
 
 Create a `.env` file in the project root:
 
@@ -139,15 +143,15 @@ LLM_MODEL=your_model_name
 
 Used by:
 
-* `backend/query_rewriter.py`
-* `backend/ocr_pipeline.py`
+- `backend/query_rewriter.py`
+- `backend/ocr_pipeline.py`
 
-## 4. Start the FastAPI Backend
+## Run the Project
 
-From the project root:
+Start the backend from the project root:
 
-```bash
-uvicorn backend.app:app --reload --host 0.0.0.0 --port 8000
+```powershell
+python -m uvicorn backend.app:app --reload --host 0.0.0.0 --port 8000
 ```
 
 Backend URL:
@@ -156,24 +160,20 @@ Backend URL:
 http://localhost:8000
 ```
 
-## 5. Start the Streamlit Frontend
+In a second terminal, start the frontend:
 
-Open a new terminal from the project root:
-
-```bash
-venv\Scripts\activate
-streamlit run frontend/streamlit.py
+```powershell
+cd frontend
+npm run dev
 ```
 
 Frontend URL:
 
 ```text
-http://localhost:8501
+http://localhost:3000
 ```
 
----
-
-# API Endpoints
+## API Endpoints
 
 ### Health Check
 
@@ -189,10 +189,10 @@ POST /search/text?query=<query>
 
 Pipeline includes:
 
-* Query rewriting
-* Category routing
-* Hybrid retrieval
-* Reranking
+- Query rewriting
+- Category routing
+- Hybrid retrieval
+- Reranking
 
 ### Image Search
 
@@ -202,15 +202,21 @@ POST /search/image
 
 Accepts image uploads and performs:
 
-* Handwritten text detection
-* OCR extraction
-* CLIP image retrieval
+- Handwritten text detection
+- OCR-based text fallback
+- CLIP image retrieval
 
----
+### Static Images
 
-# Included Retrieval Artifacts
+```text
+GET /static/<category>/<image_name>
+```
 
-Prebuilt indexes allow the system to run immediately:
+Serves jewellery images from the backend dataset folders.
+
+## Included Retrieval Artifacts
+
+Prebuilt retrieval artifacts already included:
 
 ```text
 backend/bm25/ring_bm25.pkl
@@ -220,86 +226,66 @@ backend/embeddings/id_mapping.json
 backend/faiss/image.index
 ```
 
----
+## Rebuilding Indexes
 
-# Rebuilding Indexes
-
-Only required if the dataset changes.
+Only needed if the dataset changes.
 
 ### Build BM25
 
-```bash
+```powershell
 python backend/build_bm25.py
 ```
 
 ### Generate CLIP Embeddings
 
-```bash
+```powershell
 python backend/create_embeddings.py
 ```
 
 ### Build FAISS Index
 
-```bash
+```powershell
 python backend/create_faiss_index.py
 ```
 
----
-
-# Metadata Fields
+## Metadata Fields
 
 Jewellery metadata used for retrieval and filtering:
 
-* `category`
-* `material`
-* `stone_type`
-* `stone_shape`
-* `color`
-* `short_description`
-* `image_name`
+- `category`
+- `material`
+- `stone_type`
+- `stone_shape`
+- `color`
+- `short_description`
+- `image_name`
 
 Supported categories:
 
-* `ring`
-* `necklace`
+- `ring`
+- `necklace`
 
----
+## Frontend Features
 
-# Frontend Features
+- Text query search
+- Image upload search
+- Result grid layout
+- Metadata filter sidebar
+- Result detail modal
+- Processed query display
+- Query type and category indicators
 
-* Text search
-* Image upload search
-* Jewellery result grid
-* Metadata filters
-* Result detail display
-* Processed query display
-* Category and query badges
-
----
-
-# Demo Examples
-
-Example queries:
+## Example Queries
 
 ```text
 gold ring with diamond
 emerald necklace
 plain wedding band
+gold ring with red stone
 ```
 
 You can also:
 
-* Upload a jewellery photo
-* Upload a handwritten jewellery requirement
-
----
-
-# Demo Goal
-
-This project demonstrates a compact multimodal RAG pipeline where:
-
-* Text queries are rewritten and routed
-* Images are embedded using CLIP
-* Sparse + dense retrieval are fused
-* Cross-encoder reranking improves relevance
-* A Streamlit frontend enables interactive search
+- Upload a jewellery photo
+- Upload a handwritten jewellery request
+- Upload a Jewel Sketch
